@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lusanji
-- 👀 I’m interested in projects in the area of natural language processing, speech processing and blockchain.
+- 👀 I’m interested in projects in the areas of natural language processing, speech processing and blockchain.
 - 📫 
 
 <!---
