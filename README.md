@@ -2,7 +2,7 @@
 
                       I am an ML/DL/NLP/Speech recognition Enthusiast 
            
-- 👀 I’m interested in projects in the areas of natural language processing, speech processing, image processing and Explainable AI so that I can seek imaginative ways to unveil hindered insightful information from data, utilizing cutting-edge technologies.
+- 👀 I’m interested in projects in the areas of natural language processing, speech processing, image processing and Explainable AI so that I can seek imagin
 
 
 <!---
