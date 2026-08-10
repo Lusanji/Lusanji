@@ -2,7 +2,7 @@
 
                       I am an ML/DL/Speech recognition Enthusiast 
            
-- 👀 I’m interested in projects in the areas of machine learning, speech processing and Explainable AI
+- 👀 I’m interested in projects in the areas of machine learning, speech processing and explainable AI
 
 
 <!---
