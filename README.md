@@ -1,8 +1,8 @@
                             👋 Hi there 🙂
 
-                      I am an ML/DL/NLP/Speech recognition Enthusiast 
+                      I am an ML/DL/Speech recognition Enthusiast 
            
-- 👀 I’m interested in projects in the areas of natural language processing, speech processing, image processing and Explainable AI
+- 👀 I’m interested in projects in the areas of machine learning, speech processing and Explainable AI
 
 
 <!---
